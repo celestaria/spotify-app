@@ -1,4 +1,4 @@
-# Spotify Web-Api
+# Spotify Album Covers
 
 ![Project Video](resources/spotify-api.jpg)
 
