@@ -2,7 +2,7 @@
 
 ![Project Video](resources/spotify-api.jpg)
 
-Using a spotify web-api to grab your artists favorite album covers.
+Grab your favorite artist's album covers using the Spotify API.
 
 ## Technologies
 
